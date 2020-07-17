@@ -3,11 +3,17 @@
 
 🌱 I’m currently learning web development 
 
+Skills:
+➡Html
+➡css
+➡python
+➡JavaScript
+➡git
+➡data structures
+
 📫 How to reach me: 
 
 email:agarwalsakshi368@gmail.com
-
-github:github.com/sakshi8271
 
 linkedin:https://www.linkedin.com/in/sakshi-agarwal-9a1370176/
 <!--
