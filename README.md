@@ -1,9 +1,14 @@
 
 🔭 I’m currently pursuing my MCA from VIT Vellore
+
 🌱 I’m currently learning web development 
+
 📫 How to reach me: 
+
 email:agarwalsakshi368@gmail.com
+
 github:github.com/sakshi8271
+
 linkedin:https://www.linkedin.com/in/sakshi-agarwal-9a1370176/
 <!--
 **sakshi8271/sakshi8271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
